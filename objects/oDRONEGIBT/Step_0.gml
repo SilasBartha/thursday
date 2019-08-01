@@ -1,7 +1,6 @@
-/// @description Move
-if(dismembered){
-	moveInan(self);
-	if(!head.dismembered){
-		head.dismembered = true;
-	}
-}
+/// @description Insert description here
+// You can write your code in this editor
+
+// Inherit the parent event
+event_inherited();
+

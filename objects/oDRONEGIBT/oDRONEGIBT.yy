@@ -5,7 +5,7 @@
     "name": "oDRONEGIBT",
     "eventList": [
         {
-            "id": "eaeae80d-e05f-4741-989c-2ae75e794af1",
+            "id": "6b1e808b-1628-4de3-bbe3-f5a065749f4a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "c3b6a7c7-5b5f-45fb-8a96-76c29c2f6b16"
         },
         {
-            "id": "97f35de3-b49d-423d-a93a-e2b6e9a58293",
+            "id": "0c342866-e2a6-4d64-b5ff-58978760ac0a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -27,7 +27,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "9d404f15-fd08-469b-ba74-988cc69ef244",
+    "parentObjectId": "adc1a80a-0c75-481d-b46d-e3734ae5408f",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

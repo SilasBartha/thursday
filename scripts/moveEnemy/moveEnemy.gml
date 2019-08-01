@@ -2,17 +2,26 @@
 /// @description Move the enemy.
 ///@parma id enemy to move
 
+//Be sure to do everything in the desired object
 with(argument0){
+	
 //X	
+
+	//TODO: Add horizontal input for enemies
 	movH = 0;
+	
 	//Acceleration
 	if(movH!=0){
 		if(velH*movH<mVelH) velH+=accH*movH;	
 	}else{
+		
+		//Deceleration
 		if(abs(velH)>0){
 			velH-=accH*sign(velH);
 		}
 	}
+	
+	//Determine Direction
 	var dirH = sign(velH);
 	
 	//Collision

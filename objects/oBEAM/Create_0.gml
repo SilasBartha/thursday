@@ -1,3 +1,4 @@
+//Initialize
 live = true;
 stuck = false;
 stuckIn = 0;

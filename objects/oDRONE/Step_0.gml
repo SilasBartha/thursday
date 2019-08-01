@@ -3,6 +3,7 @@
 //Move
 moveEnemy(self);
 
+//Gib
 if(hp<=0){
 	with(instance_create_layer(x,y,"PLAYER",oDRONEGIBH)){
 		image_xscale = other.image_xscale;

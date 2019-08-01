@@ -1,5 +1,6 @@
-/// @description Zoom
-dismembered = false;
-if(place_meeting(x,y-1,oDRONEGIBH)){
-	head = instance_place(x,y-1,oDRONEGIBH);
-}
+/// @description Insert description here
+// You can write your code in this editor
+
+// Inherit the parent event
+event_inherited();
+
