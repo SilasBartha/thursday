@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0cb23d74-0d0d-46d9-b72f-d40d0b4aff9d",
+            "Value": {
+                "id": "90a6d52e-b67c-42a0-aa80-f41e2af7e591",
+                "resourcePath": "objects\\oDIAGRAM\\oDIAGRAM.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0d50b5f3-b41e-4d79-a210-993f6a11bc7c",
             "Value": {
                 "id": "ab2b62db-e0ca-4e85-b17c-4f0686b6e5dc",
@@ -103,6 +111,22 @@
             }
         },
         {
+            "Key": "308ea6c9-84ec-4f4a-b700-70e6745928d5",
+            "Value": {
+                "id": "107a81ee-2491-4dcd-9b01-29ded7b2d73f",
+                "resourcePath": "objects\\oIMAGE\\oIMAGE.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "32bf9c24-59a9-4f5d-85a9-f1e945d52f29",
+            "Value": {
+                "id": "c905b0ea-a236-4e0a-be7e-d88180f4a669",
+                "resourcePath": "objects\\oIMAGESIGNPARENT\\oIMAGESIGNPARENT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "330fccc8-6185-47c8-8fe8-26183779422f",
             "Value": {
                 "id": "0bb6a0cb-1e4b-48b6-95b4-88c049b2c657",
@@ -132,6 +156,14 @@
                 "id": "652e72be-87ea-4dc0-9ca6-5ba448ce85ad",
                 "resourcePath": "scripts\\getPlayerInputH\\getPlayerInputH.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3b5d2644-a8f4-4de4-8474-f9ce91e1d747",
+            "Value": {
+                "id": "0452924f-32e3-4db3-9bf0-05d5e48ef3d3",
+                "resourcePath": "sprites\\sIDEA\\sIDEA.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -223,11 +255,43 @@
             }
         },
         {
+            "Key": "6ec69974-be3f-4abc-ad74-bd664f08273a",
+            "Value": {
+                "id": "ae57ccc5-af3a-4225-ab5a-82f6605a2dac",
+                "resourcePath": "sprites\\sPICTURE\\sPICTURE.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6ed41556-02e7-49d9-ba21-5971a3d8c04a",
+            "Value": {
+                "id": "0a2bfecc-5a1b-43f1-b380-c36c20773abb",
+                "resourcePath": "fonts\\fREAD\\fREAD.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "7b42a26e-4683-44db-8fdb-ef855a4f3a1a",
             "Value": {
                 "id": "d30001ac-21ca-4e30-8f3e-1936f58c2e8a",
                 "resourcePath": "scripts\\getPlayerInputV\\getPlayerInputV.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7c5c064a-7821-4152-b254-70d8f3a1f25c",
+            "Value": {
+                "id": "adf6a325-e587-469f-bb78-3d9e741499c5",
+                "resourcePath": "objects\\oTEXT\\oTEXT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7cf8a7e4-fd81-46bb-a4d2-abe86c35113b",
+            "Value": {
+                "id": "be07409c-b3b5-41f2-bc3f-d28ce083740d",
+                "resourcePath": "objects\\oTEXTSIGNPARENT\\oTEXTSIGNPARENT.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,6 +351,22 @@
             }
         },
         {
+            "Key": "a2d5aa14-e9a3-4c03-8e43-c6aebf2318ef",
+            "Value": {
+                "id": "cb9b0a0d-4c73-4c6c-b4a6-3a8860901300",
+                "resourcePath": "objects\\oOUTPUTPARENT\\oOUTPUTPARENT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a5192206-4fce-4b8c-818e-5cafa57fcab9",
+            "Value": {
+                "id": "7402f6d2-27d4-43dd-a36b-825e883e5552",
+                "resourcePath": "sprites\\sPAPERS\\sPAPERS.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "ef6a2034-885a-402a-9ca5-3114b2af7d14",
@@ -300,6 +380,14 @@
                 "id": "12f26101-b27a-404b-889c-fb1813e5e800",
                 "resourcePath": "sprites\\stINDUSTRIAL\\stINDUSTRIAL.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aafe7eb6-cd5e-44e9-850d-80558c9affdd",
+            "Value": {
+                "id": "57aadd7d-db4f-4b60-9093-e92ca69ab5a0",
+                "resourcePath": "objects\\oSIGNPARENT\\oSIGNPARENT.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -319,11 +407,27 @@
             }
         },
         {
+            "Key": "af928381-ccd1-4c83-bbf6-132b6e1fea90",
+            "Value": {
+                "id": "17076fe3-a976-48a8-906e-bf620f06b04a",
+                "resourcePath": "objects\\oNOTE\\oNOTE.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b46dec12-f527-46dc-a91f-b03222f0c756",
             "Value": {
                 "id": "8c95cc5e-55af-4cef-9101-f2724ead4720",
                 "resourcePath": "scripts\\moveInan\\moveInan.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b52d5ae1-18b4-4ce6-8a26-47dd2f5e1dd8",
+            "Value": {
+                "id": "79c04cdc-2d9b-46cd-90b7-3ca4e663ebc2",
+                "resourcePath": "views\\b52d5ae1-18b4-4ce6-8a26-47dd2f5e1dd8.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -396,6 +500,14 @@
                 "id": "577e6890-e58c-4563-ae8b-16c6ea7b37c8",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd121893-af4d-43f8-8726-89285b3f3664",
+            "Value": {
+                "id": "d04e17eb-08a6-4e5c-9be2-bd1cd206117e",
+                "resourcePath": "sprites\\sREADMARKER\\sREADMARKER.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

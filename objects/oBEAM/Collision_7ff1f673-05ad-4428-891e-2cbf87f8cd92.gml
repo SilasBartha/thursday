@@ -8,7 +8,7 @@ if(live){
 	}
 	
 	//Break if drone resists
-	if(other.hp>0){
+	if(other.hp>=0){
 		instance_destroy(self);
 	}
 	

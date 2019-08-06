@@ -9,7 +9,7 @@ with(oPLAYER){
 	//Acceleration
 	
 	//If Player is Trying to Move
-	if(inH!=0){
+	if(inH!=0&&canMove){
 		
 		//Accerate if below max speed
 		if(velH*inH<mVelH) velH+=accH*inH;

@@ -11,3 +11,4 @@ velH = 0;
 velV = 0;
 jumpBuffered = false;
 jumpChain = 0;
+canMove = true;
