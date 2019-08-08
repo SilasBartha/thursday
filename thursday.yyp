@@ -111,10 +111,26 @@
             }
         },
         {
+            "Key": "2e32f3a0-f177-403c-b42d-73b59619eb6a",
+            "Value": {
+                "id": "dc530eb0-ed7b-42b0-98a2-5cbc6dfd5eed",
+                "resourcePath": "sprites\\sACTIBOT\\sACTIBOT.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "308ea6c9-84ec-4f4a-b700-70e6745928d5",
             "Value": {
                 "id": "107a81ee-2491-4dcd-9b01-29ded7b2d73f",
                 "resourcePath": "objects\\oIMAGE\\oIMAGE.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "32924b78-6823-44a1-aa22-4a23db2cc89f",
+            "Value": {
+                "id": "dcedbeb2-bcf8-4564-9cb5-26d21365b679",
+                "resourcePath": "objects\\oDEVNOTE\\oDEVNOTE.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -132,6 +148,14 @@
                 "id": "0bb6a0cb-1e4b-48b6-95b4-88c049b2c657",
                 "resourcePath": "objects\\oPARTSYSTEM\\oPARTSYSTEM.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "33df714e-fe87-42c9-80bc-3c478c3045b8",
+            "Value": {
+                "id": "12ba9190-bc64-4db1-a613-43cfc262dc6d",
+                "resourcePath": "rooms\\rACTI\\rACTI.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -199,6 +223,14 @@
             }
         },
         {
+            "Key": "474276b8-bcf2-43fa-b107-284c4a66f0dd",
+            "Value": {
+                "id": "7a8aee3f-d657-4304-a0ea-148ef6d16b5f",
+                "resourcePath": "objects\\oINTERACTABLEPARENT\\oINTERACTABLEPARENT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "486e5973-ee37-49a4-94ab-600183623fa4",
             "Value": {
                 "id": "2b242633-62b6-473d-b206-6b877af72ec2",
@@ -220,6 +252,22 @@
                 "id": "666d00f2-9937-4325-99dc-7eebfa73cced",
                 "resourcePath": "views\\56bc815b-0e5b-4dc2-adf8-92afb4941451.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5750697c-7543-4de4-a4e7-d3b3659bd35d",
+            "Value": {
+                "id": "eea2ce7f-d9d1-4486-9a6b-ac7bbcf16357",
+                "resourcePath": "objects\\oHDDI\\oHDDI.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "60e5a78e-126b-41c9-bc02-4b64ea6d3cf6",
+            "Value": {
+                "id": "203f17b0-7885-4dbb-90b8-9d4805454ce8",
+                "resourcePath": "objects\\oLINEINPUT\\oLINEINPUT.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -271,6 +319,22 @@
             }
         },
         {
+            "Key": "73dc0cf7-30d5-462e-9731-663d03c3e15a",
+            "Value": {
+                "id": "f2858483-a020-442d-88b9-19c7a492d878",
+                "resourcePath": "objects\\oINPUTPARENT\\oINPUTPARENT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7afbba74-aef7-41e9-90a9-fa04f7adfb8f",
+            "Value": {
+                "id": "e2982780-7592-46e7-addc-d8aa76503981",
+                "resourcePath": "scripts\\goToActI\\goToActI.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7b42a26e-4683-44db-8fdb-ef855a4f3a1a",
             "Value": {
                 "id": "d30001ac-21ca-4e30-8f3e-1936f58c2e8a",
@@ -295,11 +359,35 @@
             }
         },
         {
+            "Key": "81a47477-b856-46a5-920d-a8c760f004db",
+            "Value": {
+                "id": "adab675e-e94f-47ea-b6f6-b358e1c3c4d8",
+                "resourcePath": "sprites\\sHDD\\sHDD.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8e678fcd-ad3e-4b9a-99f4-336af3af67b9",
+            "Value": {
+                "id": "5b4cad00-3667-4f20-bdad-56f1b0775eee",
+                "resourcePath": "objects\\oLINEINPUTINTERACTABLEPARENT\\oLINEINPUTINTERACTABLEPARENT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "90c5710a-71c8-4cd6-b271-fcaf5ad8cfb2",
             "Value": {
                 "id": "7897ad13-c1d4-406b-b5ac-29e2a7a06010",
                 "resourcePath": "objects\\oSOLIDSLAB\\oSOLIDSLAB.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "939584a2-8b0a-4a5d-a983-3310449c3b5b",
+            "Value": {
+                "id": "a5b1620e-916a-402a-ae81-4373545f25b2",
+                "resourcePath": "sprites\\sDEVNOTE\\sDEVNOTE.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -506,7 +594,7 @@
             "Key": "cd121893-af4d-43f8-8726-89285b3f3664",
             "Value": {
                 "id": "d04e17eb-08a6-4e5c-9be2-bd1cd206117e",
-                "resourcePath": "sprites\\sREADMARKER\\sREADMARKER.yy",
+                "resourcePath": "sprites\\sMARKER\\sMARKER.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -559,6 +647,14 @@
             }
         },
         {
+            "Key": "f20418c6-3d10-413d-97e9-015f3f32a1b6",
+            "Value": {
+                "id": "c97c1cf1-7527-429f-9fb6-6b59e76f1076",
+                "resourcePath": "views\\f20418c6-3d10-413d-97e9-015f3f32a1b6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f22fc43a-6d30-4879-9945-60de7dd5647e",
             "Value": {
                 "id": "c37627c6-ec6c-4542-afce-247a3db05fe7",
@@ -598,7 +694,8 @@
         "39e6d6d7-d87a-4c5b-ab42-deba81aa31ba",
         "7b42a26e-4683-44db-8fdb-ef855a4f3a1a",
         "15a4595c-535c-4555-a89b-6099c29ac62a",
-        "1a15ead1-6210-45df-9494-8e6df9c7db6c"
+        "1a15ead1-6210-45df-9494-8e6df9c7db6c",
+        "7afbba74-aef7-41e9-90a9-fa04f7adfb8f"
     ],
     "tutorial": ""
 }

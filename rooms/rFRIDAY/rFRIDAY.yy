@@ -207,7 +207,9 @@
         "e35b10c6-95df-4053-89b5-bacc92bf359f",
         "5477d45b-bdb9-41bf-a9d6-a26650e19901",
         "53f6e68a-7835-4a32-92c8-5bd9b8994eee",
-        "d1b2849e-09b4-499a-972a-1764d912ffed"
+        "d1b2849e-09b4-499a-972a-1764d912ffed",
+        "3b59e31b-7e08-4ae3-a091-7628b8a83cd3",
+        "8eb59d30-2c75-46bd-ba52-a32aaa48b049"
     ],
     "IsDnD": false,
     "layers": [
@@ -219,7 +221,7 @@
             "grid_x": 64,
             "grid_y": 32,
             "hierarchyFrozen": false,
-            "hierarchyVisible": true,
+            "hierarchyVisible": false,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -428,7 +430,7 @@
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
-            "visible": true
+            "visible": false
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
@@ -536,7 +538,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "BACKDECOR",
+            "name": "GROUNDOBJS",
             "id": "248c5d0e-6b76-4860-8a6d-57a21e060c9d",
             "depth": 500,
             "grid_x": 32,
@@ -548,10 +550,12 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_65EBD83F","id": "e35b10c6-95df-4053-89b5-bacc92bf359f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_65EBD83F","objId": "af928381-ccd1-4c83-bbf6-132b6e1fea90","properties": [{"id": "b92139f5-8e80-4244-bf82-eea6874fa19b","modelName": "GMOverriddenProperty","objectId": "7cf8a7e4-fd81-46bb-a4d2-abe86c35113b","propertyId": "f99cfd5e-2d57-4c3e-baca-ee940f2e43ab","mvc": "1.0","value": "Goodbye World!\\n-SYSTEM BACKUP COMPLETE-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1136,"y": 595},
+{"name": "inst_65EBD83F","id": "e35b10c6-95df-4053-89b5-bacc92bf359f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_65EBD83F","objId": "af928381-ccd1-4c83-bbf6-132b6e1fea90","properties": [{"id": "b92139f5-8e80-4244-bf82-eea6874fa19b","modelName": "GMOverriddenProperty","objectId": "7cf8a7e4-fd81-46bb-a4d2-abe86c35113b","propertyId": "f99cfd5e-2d57-4c3e-baca-ee940f2e43ab","mvc": "1.0","value": "Goodbye World!\\n-SYSTEM BACKUP COMPLETE-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 516,"y": 298},
 {"name": "inst_77CD6343","id": "5477d45b-bdb9-41bf-a9d6-a26650e19901","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_77CD6343","objId": "308ea6c9-84ec-4f4a-b700-70e6745928d5","properties": [{"id": "148564ce-8af6-4136-adda-c718dfc23f7c","modelName": "GMOverriddenProperty","objectId": "32bf9c24-59a9-4f5d-85a9-f1e945d52f29","propertyId": "553f8392-1d1f-4ed7-8370-42830babffa6","mvc": "1.0","value": "sIDEA"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1060,"y": 589},
 {"name": "inst_212DAC5C","id": "53f6e68a-7835-4a32-92c8-5bd9b8994eee","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_212DAC5C","objId": "d15d70c8-c12a-45c3-be9c-27a51790ca05","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1408,"y": 576},
-{"name": "inst_747E255","id": "d1b2849e-09b4-499a-972a-1764d912ffed","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_747E255","objId": "af928381-ccd1-4c83-bbf6-132b6e1fea90","properties": [{"id": "10bc3a12-8ab4-4344-8fe7-b29b785af586","modelName": "GMOverriddenProperty","objectId": "7cf8a7e4-fd81-46bb-a4d2-abe86c35113b","propertyId": "f99cfd5e-2d57-4c3e-baca-ee940f2e43ab","mvc": "1.0","value": "-^&*$#%@TECH AR&#IVE ENTRY 001-\\n_________________________________________________\\n\\nAll units manufactured after\\nrelease of model #1f1f1f equipped\\nwith automated backup system,\\nin case of emergency shutdown.\\nAccess to machine memory protected\\nby password. Level of memory\\ncoherence may vary."}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 870,"y": 334}
+{"name": "inst_747E255","id": "d1b2849e-09b4-499a-972a-1764d912ffed","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_747E255","objId": "af928381-ccd1-4c83-bbf6-132b6e1fea90","properties": [{"id": "10bc3a12-8ab4-4344-8fe7-b29b785af586","modelName": "GMOverriddenProperty","objectId": "7cf8a7e4-fd81-46bb-a4d2-abe86c35113b","propertyId": "f99cfd5e-2d57-4c3e-baca-ee940f2e43ab","mvc": "1.0","value": "-^&*$#%@TECH AR&#IVE ENTRY 001-\\n_________________________________________________\\n\\nAll units manufactured after\\nrelease of model #1f1f1f equipped\\nwith automated backup system,\\nin case of emergency shutdown.\\nAccess to machine memory protected\\nby password. Level of memory\\ncoherence may vary."}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 870,"y": 334},
+{"name": "inst_5111C4B4","id": "3b59e31b-7e08-4ae3-a091-7628b8a83cd3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5111C4B4","objId": "5750697c-7543-4de4-a4e7-d3b3659bd35d","properties": [{"id": "06cec0c2-9557-4312-ac35-4efab71bdaff","modelName": "GMOverriddenProperty","objectId": "8e678fcd-ad3e-4b9a-99f4-336af3af67b9","propertyId": "1e6efb53-7984-4cd1-b2d8-be841f94a173","mvc": "1.0","value": "\"9451\""},{"id": "cf34fc50-451e-4170-9097-36e3edd26b3a","modelName": "GMOverriddenProperty","objectId": "8e678fcd-ad3e-4b9a-99f4-336af3af67b9","propertyId": "b7ebf09e-ed3b-4a03-aee7-35aec04e612d","mvc": "1.0","value": "goToActI"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 114,"y": 281},
+{"name": "inst_3ADAFBC0","id": "8eb59d30-2c75-46bd-ba52-a32aaa48b049","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3ADAFBC0","objId": "32924b78-6823-44a1-aa22-4a23db2cc89f","properties": [{"id": "f614de3a-5ba5-46c0-badd-b728c2dcde38","modelName": "GMOverriddenProperty","objectId": "7cf8a7e4-fd81-46bb-a4d2-abe86c35113b","propertyId": "f99cfd5e-2d57-4c3e-baca-ee940f2e43ab","mvc": "1.0","value": "\"RMB to open highlighted dialogs\\nESC to exit dialogs\\nENTER to submit password attempt\""}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 320,"y": 512}
             ],
             "layers": [
 
@@ -564,10 +568,36 @@
             "visible": true
         },
         {
+            "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "BACKDECOR",
+            "id": "7cb79e2e-9428-4b1b-869a-f6dbfb796394",
+            "assets": [
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_205A91CA","id": "0e119a2f-7e79-4a50-b824-da5b314a213f","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "2e32f3a0-f177-403c-b42d-73b59619eb6a","userdefined_animFPS": false,"x": 96,"y": 256}
+            ],
+            "depth": 600,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRAssetLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
             "name": "FLOOR",
             "id": "19a3fd41-4059-49e0-9a77-05d91a6eb060",
-            "depth": 600,
+            "depth": 700,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -614,7 +644,7 @@
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
             "name": "WALL",
             "id": "51f1a1a7-12cc-479d-acca-ef0496563959",
-            "depth": 700,
+            "depth": 800,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -664,7 +694,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294962585 },
-            "depth": 800,
+            "depth": 900,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
