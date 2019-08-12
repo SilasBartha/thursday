@@ -5,7 +5,7 @@
     "name": "oHDDI",
     "eventList": [
         {
-            "id": "351359b9-a158-40fa-8df4-9141cecf615c",
+            "id": "d501ce61-33c3-4dd9-abf7-9aa4d22840b8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "5750697c-7543-4de4-a4e7-d3b3659bd35d"
         },
         {
-            "id": "43327377-254a-46da-bb73-8a4e1b9f4dee",
+            "id": "ba3c7322-1c8b-40ff-b367-2aed6b26da33",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

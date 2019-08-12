@@ -5,7 +5,7 @@
     "name": "oLINEINPUTINTERACTABLEPARENT",
     "eventList": [
         {
-            "id": "ee695e7b-1b47-4e63-8fa4-74e97eecf5d3",
+            "id": "e49ba9a4-02e4-415f-8251-b29e51b377b8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "8e678fcd-ad3e-4b9a-99f4-336af3af67b9"
         },
         {
-            "id": "f488abba-0541-4a1f-aa52-b2d7bd6278ce",
+            "id": "6077907e-991e-402c-b033-ae70ae16b602",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

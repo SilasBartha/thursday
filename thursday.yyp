@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "3ea9a340-e3eb-4fe9-a538-63ebe1849844",
+            "Value": {
+                "id": "8dbf34bb-2930-4aa1-9c61-f2e858a90269",
+                "resourcePath": "objects\\oOBJECTPARENT\\oOBJECTPARENT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3f404b72-00a9-4d87-9248-79ef4c11d5cd",
             "Value": {
                 "id": "a7ba29d6-624d-41da-b40b-3cfbe2717135",
@@ -263,14 +271,6 @@
             }
         },
         {
-            "Key": "60e5a78e-126b-41c9-bc02-4b64ea6d3cf6",
-            "Value": {
-                "id": "203f17b0-7885-4dbb-90b8-9d4805454ce8",
-                "resourcePath": "objects\\oLINEINPUT\\oLINEINPUT.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "61e24df8-b0b9-4db9-8dd8-1cbdc9df1a5d",
             "Value": {
                 "id": "3f25bfc7-83c8-4a3f-ac48-bcc4305275d3",
@@ -295,11 +295,27 @@
             }
         },
         {
+            "Key": "68805e12-a2aa-414a-8087-282422725e42",
+            "Value": {
+                "id": "798555be-ee3e-4f8f-aaea-46ec34bbedff",
+                "resourcePath": "objects\\oDIALOGBOXPARENT\\oDIALOGBOXPARENT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6c6ba7e8-1268-4c7b-b090-1e9c7a38692b",
             "Value": {
                 "id": "1d869773-556c-41e2-90bc-6cbf86e454b7",
                 "resourcePath": "sprites\\sBEAM\\sBEAM.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6e1ed827-1c9e-4682-8806-16a0cf2a80e8",
+            "Value": {
+                "id": "bf69c926-1215-4119-b25c-eeae65d3ea72",
+                "resourcePath": "objects\\oLINEINPUT\\oLINEINPUT.yy",
+                "resourceType": "GMObject"
             }
         },
         {

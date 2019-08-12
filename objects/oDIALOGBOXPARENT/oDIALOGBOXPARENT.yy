@@ -1,14 +1,14 @@
 {
-    "id": "474276b8-bcf2-43fa-b107-284c4a66f0dd",
+    "id": "68805e12-a2aa-414a-8087-282422725e42",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oINTERACTABLEPARENT",
+    "name": "oDIALOGBOXPARENT",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "3ea9a340-e3eb-4fe9-a538-63ebe1849844",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

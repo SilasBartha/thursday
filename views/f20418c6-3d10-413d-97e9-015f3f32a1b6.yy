@@ -8,7 +8,7 @@
         "73dc0cf7-30d5-462e-9731-663d03c3e15a",
         "8e678fcd-ad3e-4b9a-99f4-336af3af67b9",
         "5750697c-7543-4de4-a4e7-d3b3659bd35d",
-        "60e5a78e-126b-41c9-bc02-4b64ea6d3cf6"
+        "6e1ed827-1c9e-4682-8806-16a0cf2a80e8"
     ],
     "filterType": "GMObject",
     "folderName": "input",
