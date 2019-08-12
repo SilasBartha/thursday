@@ -8,7 +8,7 @@ draw_set_font(fREAD);
 if(h==0) h = string_height(text);
 w = string_width(text_current);
 
-if(letters>=length)&&keyboard_check_pressed(vk_anykey){
+if(keyboard_check_pressed(vk_escape)){
 	instance_destroy();
 	oPLAYER.canMove = true;
 	camera_set_view_target(view_camera[0],oPLAYER);

@@ -67,7 +67,7 @@ with(oPLAYER){
 	if(place_meeting(x,y+1,oSOLID)){
 		
 		//If Jump was Buffered
-		if(jumpBuffered){
+		if(jumpBuffered&&canMove){
 			
 			//Remove Buffer
 			jumpBuffered = false;
