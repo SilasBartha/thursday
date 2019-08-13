@@ -13,3 +13,13 @@ if(keyboard_check_pressed(vk_escape)){
 	oPLAYER.canMove = true;
 	camera_set_view_target(view_camera[0],oPLAYER);
 }
+
+if(keyboard_check_pressed(vk_enter)){
+	if(keyboard_string==answer){
+		col = c_green;
+		script_execute(onComplete);
+	}else{
+		col = c_red;
+		keyboard_string = "";
+	}
+}

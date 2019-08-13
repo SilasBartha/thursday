@@ -2,12 +2,12 @@
 var hw = w/2;
 
 //Draw
-draw_set_color(c_yellow);
+draw_set_color(col);
 draw_set_alpha(0.5);
 
 //Draw DialogBox
 draw_roundrect_ext(x-hw-border, y-h-border*2, x+hw+border, y, 15,15,0);
-draw_sprite_ext(sMARKER,0,x,y,1,1,0,c_yellow,0.5);
+draw_sprite_ext(sMARKER,0,x,y,1,1,0,col,0.5);
 
 //Reset Alpha
 draw_set_alpha(1);
