@@ -17,7 +17,27 @@ if(!stuck){
 			//Dismember, show shatter effect
 			dismembered = true;
 			shot = true;
-			part_particles_create(ps,x,y,partDRONESHATTER,10)
+			part_particles_create(ps,x,y,partDRONESHATTER,10);
+			switch(irandom_range(1,6)){
+			case 1:
+				audio_play_sound(smash1,0,0);
+				break;
+			case 2:
+				audio_play_sound(smash2,0,0);
+				break;
+			case 3:
+				audio_play_sound(smash3,0,0);
+				break;
+			case 4:
+				audio_play_sound(smash4,0,0);
+				break;
+			case 5:
+				audio_play_sound(smash5,0,0);
+				break;
+			case 6:
+				audio_play_sound(smash6,0,0);
+				break;
+			}
 		}
 	}
 	

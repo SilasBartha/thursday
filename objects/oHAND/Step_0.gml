@@ -20,6 +20,8 @@ if(mouse_check_button(mb_left) && fireRate <= 0){
 		direction = other.image_angle + random_range(-3,3);
 		image_angle = direction;
 	}
+	
+	audio_play_sound(aPlayerGunShoot,0,0);
 }
 
 //Visual Recoil Feedback
