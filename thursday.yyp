@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "17337980-c68b-414f-aa3a-7e0d0690602c",
+            "Value": {
+                "id": "b9f430ff-4dda-4ca9-9ea0-745246fa93db",
+                "resourcePath": "objects\\oPINPAD\\oPINPAD.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1853154e-9b4c-46d9-b851-f7fef9cde472",
             "Value": {
                 "id": "c2690036-9bca-44f8-8328-f1cf8a57b666",
@@ -324,6 +332,14 @@
                 "id": "58ae540f-24c0-44bd-bd45-786012327589",
                 "resourcePath": "rooms\\rFRIDAY\\rFRIDAY.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6754a2b8-853d-453f-91b0-2e7a877046ea",
+            "Value": {
+                "id": "76cc713c-03f6-4aa5-a4ca-7bad1e1638c0",
+                "resourcePath": "objects\\oPINPADINTERACTABLEPARENT\\oPINPADINTERACTABLEPARENT.yy",
+                "resourceType": "GMObject"
             }
         },
         {
