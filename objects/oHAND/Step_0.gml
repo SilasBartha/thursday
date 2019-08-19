@@ -7,7 +7,7 @@ fireRate-=1;
 recoil = max(0,recoil-1);
 
 //Fire
-if(mouse_check_button(mb_left) && fireRate <= 0){
+if(mouse_check_button(mb_left)&&(fireRate <= 0)&&(oPLAYER.canMove)){
 	
 	//Recoil
 	recoil = 15;

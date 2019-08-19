@@ -789,6 +789,14 @@
                 "resourcePath": "views\\f91eb95d-aa16-4465-ae9f-a4e2459addd3.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fbfaae62-8546-432a-a9d6-07ca333abdc7",
+            "Value": {
+                "id": "eca8ec3d-42d5-409a-ac4a-08addc28f2cd",
+                "resourcePath": "objects\\oHDDII\\oHDDII.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [

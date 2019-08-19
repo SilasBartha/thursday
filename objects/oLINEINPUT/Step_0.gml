@@ -1,3 +1,4 @@
+event_inherited();
 /// @description Progress Text
 
 text_current = keyboard_string;

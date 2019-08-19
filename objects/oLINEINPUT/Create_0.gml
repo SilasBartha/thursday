@@ -1,3 +1,4 @@
+event_inherited();
 /// @description Init
 spd = 0.5;
 letters = 0;
