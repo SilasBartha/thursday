@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "3b2a986f-98be-4e37-83bd-2b7ac0979669",
+            "Value": {
+                "id": "750a3dfb-1b4f-4100-a717-af8bc7c99739",
+                "resourcePath": "objects\\oDOOR\\oDOOR.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3b5d2644-a8f4-4de4-8474-f9ce91e1d747",
             "Value": {
                 "id": "0452924f-32e3-4db3-9bf0-05d5e48ef3d3",
@@ -228,6 +236,14 @@
                 "id": "95f51f5e-c4d3-4016-88c4-abf98b75b4dd",
                 "resourcePath": "sounds\\aNeedleShatter\\aNeedleShatter.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3d9778f4-35a3-40ed-8b0e-cef5c905f35d",
+            "Value": {
+                "id": "e2f49d58-e6f7-479b-8537-b27eac9515ea",
+                "resourcePath": "sprites\\sDOOR\\sDOOR.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -532,6 +548,14 @@
                 "id": "f3b91496-8dd6-411e-905c-d55087779a07",
                 "resourcePath": "sounds\\smash4\\smash4.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a6c96be1-8b19-423b-a065-00a9d02c7acf",
+            "Value": {
+                "id": "f53d5bf7-4c3a-4dc5-a9fc-ba121ce78d73",
+                "resourcePath": "shaders\\shader1\\shader1.yy",
+                "resourceType": "GMShader"
             }
         },
         {

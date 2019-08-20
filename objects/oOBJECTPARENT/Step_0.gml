@@ -1,1 +1,3 @@
-moveInan(self);
+if(!staticphys){
+	moveInan(self);
+}

@@ -4,4 +4,10 @@
 movePlayer();
 
 //Look in direction gun is pointed
-image_xscale = oHAND.image_yscale;
+lookdir = point_direction(x,y,mouse_x,mouse_y);
+
+if(lookdir>90&&lookdir<270){
+	image_xscale = -1;
+}else{
+	image_xscale = 1;
+}

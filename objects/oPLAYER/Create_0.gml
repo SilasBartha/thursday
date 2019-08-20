@@ -12,3 +12,4 @@ velV = 0;
 jumpBuffered = false;
 jumpChain = 0;
 canMove = true;
+lookdir = 0;

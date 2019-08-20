@@ -20,6 +20,7 @@ if(keyboard_check_pressed(vk_escape)){
 if(keyboard_check_pressed(vk_enter)&&!solved){
 	if(keyboard_string==answer){
 		col = c_green;
+		solved = true;
 		ent.solved = true;
 		script_execute(onComplete);
 	}else{

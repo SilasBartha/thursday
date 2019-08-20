@@ -57,6 +57,7 @@ if(!solved){
 if(string_length(text_current)==4&&!solved){
 	if(text_current==string(answer)){
 		col = c_green;
+		solved = true;
 		ent.solved = true;
 		script_execute(onComplete);
 	}else{
